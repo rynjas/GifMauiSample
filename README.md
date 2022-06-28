@@ -12,7 +12,8 @@ https://github.com/dotnet/maui/issues/5034
 I posted a question on stackoverflow, here's the link: 
 
 https://stackoverflow.com/questions/72780267/gif-image-is-not-working-in-net-maui-application
-
-
-
 You can use this sample application to replicate the problem
+
+The gif image I used in this sample application was downloaded from @giphy.
+
+https://gph.is/g/4MzD71w?tc=1 via @giphy
