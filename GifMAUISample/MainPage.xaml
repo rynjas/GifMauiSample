@@ -13,6 +13,7 @@
                 Source="giphy.gif"
                 SemanticProperties.Description="Cute dot net bot waving hi to you!"
                 HeightRequest="200"
+                IsAnimationPlaying="True"
                 HorizontalOptions="Center" />
                 
             <Label 
